@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - v0.15.x
 
 jobs:
   release-please:
