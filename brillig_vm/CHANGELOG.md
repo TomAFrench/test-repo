@@ -7,6 +7,13 @@
 
 * **brillig_vm:** Synchronize acvm versions
 
+## [0.16.1](https://github.com/TomAFrench/test-repo/compare/brillig_vm-v0.16.0...brillig_vm-v0.16.1) (2023-06-14)
+
+
+### Miscellaneous Chores
+
+* **brillig_vm:** Synchronize acvm versions
+
 ## [0.16.0](https://github.com/TomAFrench/test-repo/compare/brillig_vm-v0.15.0...brillig_vm-v0.16.0) (2023-06-14)
 
 

@@ -7,6 +7,13 @@
 
 * **acvm_stdlib:** Synchronize acvm versions
 
+## [0.17.0](https://github.com/TomAFrench/test-repo/compare/acvm_stdlib-v0.16.0...acvm_stdlib-v0.17.0) (2023-06-14)
+
+
+### Miscellaneous Chores
+
+* **acvm_stdlib:** Synchronize acvm versions
+
 ## [0.16.0](https://github.com/TomAFrench/test-repo/compare/acvm_stdlib-v0.15.0...acvm_stdlib-v0.16.0) (2023-06-14)
 
 

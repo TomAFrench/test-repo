@@ -16,6 +16,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 * shiny new breaking feature ([7cc09cf](https://github.com/TomAFrench/test-repo/commit/7cc09cfce73ed481d89bf3b5729e36d5e60958da))
 
+## [0.16.1](https://github.com/TomAFrench/test-repo/compare/root-v0.16.0...root-v0.16.1) (2023-06-14)
+
+
+### Bug Fixes
+
+* bug fix for patch ([7c20912](https://github.com/TomAFrench/test-repo/commit/7c20912c8239c303192a585923a92c1933581866))
+
 ## [0.16.0](https://github.com/TomAFrench/test-repo/compare/root-v0.15.0...root-v0.16.0) (2023-06-14)
 
 
