@@ -1,5 +1,25 @@
 # Changelog
 
+## [0.15.0](https://github.com/TomAFrench/test-repo/compare/acir_field-v0.14.2...acir_field-v0.15.0) (2023-06-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ci:** add spellchecker ([#73](https://github.com/TomAFrench/test-repo/issues/73))
+
+### Features
+
+* **ci:** add spellchecker ([#73](https://github.com/TomAFrench/test-repo/issues/73)) ([e661dd2](https://github.com/TomAFrench/test-repo/commit/e661dd2dea0e3ed3d7a232710ba6b488e5bfeb51))
+* implement `FieldElement::from&lt;bool&gt;()` ([#203](https://github.com/TomAFrench/test-repo/issues/203)) ([476cfa2](https://github.com/TomAFrench/test-repo/commit/476cfa247fddb515c64c2801c6868357c9375294))
+* Update Arkworks' dependencies on `acir_field` ([#69](https://github.com/TomAFrench/test-repo/issues/69)) ([65d6130](https://github.com/TomAFrench/test-repo/commit/65d61307a12f25e04afad2d50e4c4db5ce97dd8c))
+
+
+### Bug Fixes
+
+* **ci:** Correct typo to avoid `undefined` in changelogs ([#333](https://github.com/TomAFrench/test-repo/issues/333)) ([d3424c0](https://github.com/TomAFrench/test-repo/commit/d3424c04fd303c9cbe25d03118d8b358cbb84b83))
+* Empty commit to trigger release-please ([e8f0748](https://github.com/TomAFrench/test-repo/commit/e8f0748042ef505d59ab63266d3c36c5358ee30d))
+* prevent `bn254` feature flag always being enabled ([#225](https://github.com/TomAFrench/test-repo/issues/225)) ([82eee6a](https://github.com/TomAFrench/test-repo/commit/82eee6ab08ae480f04904ca8571fd88f4466c000))
+
 ## [0.14.2](https://github.com/noir-lang/acvm/compare/acir_field-v0.14.1...acir_field-v0.14.2) (2023-06-08)
 
 
