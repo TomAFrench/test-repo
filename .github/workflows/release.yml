@@ -9,8 +9,13 @@ name: Release
 # 5. Once merged, release-please will open a release PR for the patch release.
 # 6. Merge this PR into `v0.X.x` to create the release.
 #
-# At this point the release has been made, however you should then open a new PR to merge `v0.X.x` into `master`.
-# This ensures that the patch's fix is included in `master` and includes the patch release in `CHANGELOG.md`.
+# At this point the release has been made, however we want to ensure the changelog entries and the patch is included in `master`.
+# You should then open a new PR to merge the patch release into `master`. Create a new branch from the release commit
+# instead of merging the `v0.X.x` branch directly to avoid the chance of master being merged back into the `v0.X.x` branch.
+# We want to keep the `v0.X.x` branch clean to reuse it for future patch releases.
+#
+# If there are a large number of merge conflicts then you can apply the patch changes separately however you *MUST*
+# introduce the changelog entry for the `v0.X.x` release in `master`'s `CHANGELOG.md`
 
 on:
   push:
