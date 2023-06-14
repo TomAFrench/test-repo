@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.16.1](https://github.com/TomAFrench/test-repo/compare/acir-v0.16.0...acir-v0.16.1) (2023-06-14)
+
+
+### Miscellaneous Chores
+
+* **acir:** Synchronize acvm versions
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * brillig_vm bumped from 0.16.0 to 0.16.1
+
 ## [0.16.0](https://github.com/TomAFrench/test-repo/compare/acir-v0.15.0...acir-v0.16.0) (2023-06-14)
 
 
