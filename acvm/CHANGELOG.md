@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.17.0](https://github.com/TomAFrench/test-repo/compare/acvm-v0.16.0...acvm-v0.17.0) (2023-06-14)
+
+
+### Miscellaneous Chores
+
+* **acvm:** Synchronize acvm versions
+
 ## [0.16.1](https://github.com/TomAFrench/test-repo/compare/acvm-v0.16.0...acvm-v0.16.1) (2023-06-14)
 
 

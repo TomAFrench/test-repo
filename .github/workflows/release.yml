@@ -1,5 +1,17 @@
 name: Release
 
+# Patch release workflow:
+#
+# In order to create a patch release for a particular minor version v0.X.0:
+# 1. Checkout the tag for the v0.X.0 release and create the `v0.X.x` branch
+# 3. Push a "chore" commit to `v0.X.x` adding this branch to the list of branches below.
+# 4. Create a pull request into the `v0.X.x` branch with the contents of your patch.
+# 5. Once merged, release-please will open a release PR for the patch release.
+# 6. Merge this PR into `v0.X.x` to create the release.
+#
+# At this point the release has been made, however you should then open a new PR to merge `v0.X.x` into `master`.
+# This ensures that the patch's fix is included in `master` and includes the patch release in `CHANGELOG.md`.
+
 on:
   push:
     branches:

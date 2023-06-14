@@ -5,6 +5,17 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.17.0](https://github.com/TomAFrench/test-repo/compare/root-v0.16.0...root-v0.17.0) (2023-06-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* shiny new breaking feature
+
+### Features
+
+* shiny new breaking feature ([7cc09cf](https://github.com/TomAFrench/test-repo/commit/7cc09cfce73ed481d89bf3b5729e36d5e60958da))
+
 ## [0.16.1](https://github.com/TomAFrench/test-repo/compare/root-v0.16.0...root-v0.16.1) (2023-06-14)
 
 
