@@ -21,3 +21,4 @@ jobs:
           token: ${{ secrets.ACVM_RELEASE_TOKEN }}
           command: manifest
           last-release-sha: bc9c0bc82bee32151e269fead968d6de99daf995
+          default-branch: ${{ github.ref }}
