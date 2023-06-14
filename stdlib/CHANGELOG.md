@@ -1,5 +1,34 @@
 # Changelog
 
+## [0.15.0](https://github.com/TomAFrench/test-repo/compare/acvm_stdlib-v0.14.2...acvm_stdlib-v0.15.0) (2023-06-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* **acir:** rename `term_addition` to `push_addition_term`
+* **acir:** rename `term_multiplication` to `push_multiplication_term` ([#122](https://github.com/TomAFrench/test-repo/issues/122))
+* refactor ToRadix to ToRadixLe and ToRadixBe ([#58](https://github.com/TomAFrench/test-repo/issues/58))
+* **ci:** add spellchecker ([#73](https://github.com/TomAFrench/test-repo/issues/73))
+
+### Features
+
+* **ci:** add spellchecker ([#73](https://github.com/TomAFrench/test-repo/issues/73)) ([e661dd2](https://github.com/TomAFrench/test-repo/commit/e661dd2dea0e3ed3d7a232710ba6b488e5bfeb51))
+
+
+### Bug Fixes
+
+* add default flag to `acvm_stdlib` ([#242](https://github.com/TomAFrench/test-repo/issues/242)) ([83b6fa8](https://github.com/TomAFrench/test-repo/commit/83b6fa8302569add7e3ac8481b2fd2a6a1ff3576))
+* **ci:** Correct typo to avoid `undefined` in changelogs ([#333](https://github.com/TomAFrench/test-repo/issues/333)) ([d3424c0](https://github.com/TomAFrench/test-repo/commit/d3424c04fd303c9cbe25d03118d8b358cbb84b83))
+* Empty commit to trigger release-please ([e8f0748](https://github.com/TomAFrench/test-repo/commit/e8f0748042ef505d59ab63266d3c36c5358ee30d))
+* prevent `bn254` feature flag always being enabled ([#225](https://github.com/TomAFrench/test-repo/issues/225)) ([82eee6a](https://github.com/TomAFrench/test-repo/commit/82eee6ab08ae480f04904ca8571fd88f4466c000))
+
+
+### Miscellaneous Chores
+
+* **acir:** rename `term_addition` to `push_addition_term` ([d389385](https://github.com/TomAFrench/test-repo/commit/d38938542851a97dc01727438391e6a65e44c689))
+* **acir:** rename `term_multiplication` to `push_multiplication_term` ([#122](https://github.com/TomAFrench/test-repo/issues/122)) ([d389385](https://github.com/TomAFrench/test-repo/commit/d38938542851a97dc01727438391e6a65e44c689))
+* refactor ToRadix to ToRadixLe and ToRadixBe ([#58](https://github.com/TomAFrench/test-repo/issues/58)) ([2427a27](https://github.com/TomAFrench/test-repo/commit/2427a275048e598c6d651cce8348a4c55148f235))
+
 ## [0.14.2](https://github.com/noir-lang/acvm/compare/acvm_stdlib-v0.14.1...acvm_stdlib-v0.14.2) (2023-06-08)
 
 
