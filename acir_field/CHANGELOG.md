@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.16.1](https://github.com/TomAFrench/test-repo/compare/acir_field-v0.16.0...acir_field-v0.16.1) (2023-06-14)
+
+
+### Miscellaneous Chores
+
+* **acir_field:** Synchronize acvm versions
+
 ## [0.16.0](https://github.com/TomAFrench/test-repo/compare/acir_field-v0.15.0...acir_field-v0.16.0) (2023-06-14)
 
 
